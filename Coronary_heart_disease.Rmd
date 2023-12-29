@@ -1,9 +1,3 @@
----
-title: "STAT 632 Project"
-author: "James Hopham"
-date: "2023-04-19"
-output: pdf_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
